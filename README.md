@@ -1,0 +1,2 @@
+# PythonEgitim
+ pythonSyntax
