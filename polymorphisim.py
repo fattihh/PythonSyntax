@@ -1,0 +1,1 @@
+#Sub class da super class fonksiyonlarının override edilmesi
